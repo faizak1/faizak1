@@ -1,7 +1,6 @@
 ## Hello, it's Faiza 👋
 
 [LinkedIn](https://www.linkedin.com/in/faizakhan99/)
-[Follow] (https://github.com/faizak1)
 
 ### About me
 
