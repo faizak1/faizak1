@@ -9,7 +9,7 @@ I am a Master of Science in Computer Science student at Columbia University and 
 ### Experience
 
 | Company               | Title             | Years        |
-| --------------------- | :----------------:| ------------:|
+| --------------------- | :----------------:| :-----------:|
 | JPMorgan Chase & Co.  | Software Engineer | 2021-Present |
 | Con Edison            | SWE Intern        | 2019-2021    |
 | Fordham University    | Teaching Assistant| 2020-2020    |
