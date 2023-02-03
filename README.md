@@ -16,8 +16,8 @@ I am a Master of Science in Computer Science student at Columbia University and 
 | Fordham University    | Research Assistant| 2018-2020    |
 
 ### GitHub Badges
-<img src="{https://github.com/faizak1?achievement=pull-shark&tab=achievements}" />
-<img src="{https://github.com/faizak1?achievement=arctic-code-vault-contributor&tab=achievements}" />
+<img src="{https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png}" />
+<img src="{https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png}" />
 
 <!--
 **faizak1/faizak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
